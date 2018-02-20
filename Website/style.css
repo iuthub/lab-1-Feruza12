@@ -1,0 +1,60 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+body{
+	background: #595547;
+	color: white;
+}
+header .info h1{
+	color: #9FC2F8;
+	margin: 40px 5px;
+	font-size: 30pt;
+}
+header .info p{
+	margin-left: 5px;
+	margin-bottom: 10px;
+	font-size: 17px;
+}
+header .info span{
+	color: yellow;
+}
+ 
+section h2{
+	color: #9FC2F8;
+	margin: 20px 5px;
+}
+.classes ul{
+	margin: 25px;
+}
+.classes ul li{
+	margin: 3px;
+	font-size: 18px;
+}
+.movies ol{
+	margin: 25px;
+}
+.movies ol li{
+	margin: 3px;
+	font-size: 18px;
+}
+.mood p{
+	margin: 3px;
+	font-size: 18px;
+}
+.mood img{
+	width:400px; 
+	height:450px;
+}
+.mood .picture{
+	display: flex;
+	justify-content: space-around;
+}
+
+.facts ul{
+margin: 25px;
+}
+.facts ul li{
+	margin: 3px;
+	font-size: 18px;
+}
